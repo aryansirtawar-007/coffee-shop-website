@@ -1,0 +1,7 @@
+{
+  "name": "Cozy Cup Café - Dark Classic Coffee Experience",
+  "description": "A premium, dark-themed coffee shop landing page for Cozy Cup Café, featuring a classic aesthetic and smooth animations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
